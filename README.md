@@ -17,5 +17,5 @@ We had three teams working on a range of topics. All of them were continuations 
 This project was discussed again to see how it might be revived further. The original site [Air Aberdeen]( https://www.airaberdeen.org) needed updating, and others were looking at seeing what's feasible with the sensor.community APIs by building on the work from [CTC16](https://github.com/AirAberdeen/CTC16-Data-Gathering), which is gathered into an [Air Aberdeen repo](https://github.com/AirAberdeen)
 
 ### Wikipedia Editathon
-Is working on a number of projects which can be watched on the [CTC25 Dashboard](https://outreachdashboard.wmflabs.org/courses/CTC_and_WMUK/CTC25_Feb_2022). 
+A team is working on a number of projects which can be tracked on the [CTC25 Dashboard](https://outreachdashboard.wmflabs.org/courses/CTC_and_WMUK/CTC25_Feb_2022). This group was working on two different projects: one tied to the granite quarries of the city, and the other to the work of Aberdeen artists.
 
