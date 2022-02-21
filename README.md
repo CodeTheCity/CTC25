@@ -18,4 +18,4 @@ This project was discussed again to see how it might be revived further. The ori
 
 ### Wikipedia Editathon
 A team is working on a number of projects which can be tracked on the [CTC25 Dashboard](https://outreachdashboard.wmflabs.org/courses/CTC_and_WMUK/CTC25_Feb_2022). This group was working on two different projects: one tied to the granite quarries of the city; both in adding images of gravestones and details about the quarries, and the other to improving the information for the items associated with the artists recorded in the Aberdeen Art Gallery. Both were using a mix of editing by hand and using various tools to manipulate a range of items.
-
+By the end of the weekend the following happened in this area: 224 Articles were Created, 4.51K Articles were Edited, 5.13K Total Edits, all done by 7 Editors, who added 466K Words, 124 References Added, 18.1K Article Views, 9 Commons Uploads, 4 files used in articles, 4 total usages across languages. 
