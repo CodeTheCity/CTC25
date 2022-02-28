@@ -11,7 +11,7 @@ We used Slack and our Code the City workgroup as the back channel between rooms,
 We had three teams working on a range of topics. All of them were continuations of previous projects.
 
 ### The Open Data Catalogue of Scottish Local Authorities
-[The OD Bods](https://github.com/CodeTheCity/the_od_bods) which started at CTC23 continues as an opportunity for the team to work together. You can see their progress at https://opendatascotland.github.io/the_od_bods/ which feeds the website at https://opendata.scot The goal this weekend was to fix the data coming through from the APIs.
+[The OD Bods](https://github.com/CodeTheCity/the_od_bods) which started at CTC23 continues as an opportunity for the team to work together. You can see their progress at https://github.com/OpenDataScotland/the_od_bods/ which feeds the website at https://opendata.scot The goal this weekend was to fix the data coming through from the APIs.
 
 ### Air Aberdeen
 This project was discussed again to see how it might be revived further. The original site [Air Aberdeen]( https://www.airaberdeen.org) needed updating, and others were looking at seeing what's feasible with the sensor.community APIs by building on the work from [CTC16](https://github.com/AirAberdeen/CTC16-Data-Gathering), which is gathered into an [Air Aberdeen repo](https://github.com/AirAberdeen)
